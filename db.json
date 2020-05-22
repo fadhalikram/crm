@@ -26,36 +26,36 @@
     "cabang":
     [
       {
-        "Text": "Pusat",
-        "Value": "1"
+        "text": "Pusat",
+        "value": "1"
       },
       {
-        "Text": "Bandung - Jawa Barat",
-        "Value": "2"
+        "text": "Bandung - Jawa Barat",
+        "value": "2"
       }
     ],
   
     "yayasan":
     [
       {
-        "Text": "ACT",
-        "Value": "ACT"
+        "text": "ACT",
+        "value": "ACT"
       },
       {
-        "Text": "Global Qurban",
-        "Value": "GQ"
+        "text": "Global Qurban",
+        "value": "GQ"
       }
     ],
   
     "program":
     [
       {
-        "Text": "100 Pulau Tepian Negeri",
-        "Value": "198"
+        "text": "100 Pulau Tepian Negeri",
+        "value": "198"
       },
       {
-        "Text": "2015 - Program Tabungan Qurban ",
-        "Value": "175"
+        "text": "2015 - Program Tabungan Qurban ",
+        "value": "175"
       }
     ]
   }
